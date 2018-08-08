@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 2044ec3b7537e1e469dfd2dc0af2e020
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CampfireLog_000
+    100004: CampfireLog_001
+    100006: CampfireLog_002
+    100008: CampfireLog_003
+    100010: CampfireLog_004
+    100012: CampfireRock_000
+    100014: CampfireRock_001
+    100016: CampfireRock_002
+    100018: CampfireRock_003
+    100020: CampfireRock_004
+    100022: CampfireRock_005
+    100024: CampfireRock_006
+    100026: CampfireRock_007
+    400000: //RootNode
+    400002: CampfireLog_000
+    400004: CampfireLog_001
+    400006: CampfireLog_002
+    400008: CampfireLog_003
+    400010: CampfireLog_004
+    400012: CampfireRock_000
+    400014: CampfireRock_001
+    400016: CampfireRock_002
+    400018: CampfireRock_003
+    400020: CampfireRock_004
+    400022: CampfireRock_005
+    400024: CampfireRock_006
+    400026: CampfireRock_007
+    2100000: LogMaterial
+    2100002: LogMaterial__LogMaterial_Diffuse_Color_003
+    2300000: CampfireLog_000
+    2300002: CampfireLog_001
+    2300004: CampfireLog_002
+    2300006: CampfireLog_003
+    2300008: CampfireLog_004
+    2300010: CampfireRock_000
+    2300012: CampfireRock_001
+    2300014: CampfireRock_002
+    2300016: CampfireRock_003
+    2300018: CampfireRock_004
+    2300020: CampfireRock_005
+    2300022: CampfireRock_006
+    2300024: CampfireRock_007
+    3300000: CampfireLog_000
+    3300002: CampfireLog_001
+    3300004: CampfireLog_002
+    3300006: CampfireLog_003
+    3300008: CampfireLog_004
+    3300010: CampfireRock_000
+    3300012: CampfireRock_001
+    3300014: CampfireRock_002
+    3300016: CampfireRock_003
+    3300018: CampfireRock_004
+    3300020: CampfireRock_005
+    3300022: CampfireRock_006
+    3300024: CampfireRock_007
+    4300000: CampfireLog_004
+    4300002: CampfireLog_003
+    4300004: CampfireLog_002
+    4300006: CampfireLog_000
+    4300008: CampfireRock_007
+    4300010: CampfireRock_006
+    4300012: CampfireRock_005
+    4300014: CampfireRock_004
+    4300016: CampfireRock_003
+    4300018: CampfireRock_002
+    4300020: CampfireRock_001
+    4300022: CampfireRock_000
+    4300024: CampfireLog_001
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
