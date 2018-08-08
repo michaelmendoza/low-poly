@@ -1,4 +1,4 @@
-Shader "Custom/Outline2"
+Shader "Custom/Outline using Normal"
 {
 	Properties
 	{

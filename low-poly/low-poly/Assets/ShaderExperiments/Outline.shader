@@ -33,7 +33,8 @@
 			float _OutlineWidth;
 
 			vertOutput vert(vertInput input) {
-				input.pos.xyz += input.normal * _OutlineWidth;
+				input.pos.xyz *= _OutlineWidth;
+				//input.pos.xyz += input.normal * _OutlineWidth;
 
 				vertOutput o;
 				o.pos = UnityObjectToClipPos(input.pos);
