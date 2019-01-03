@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 5dbc8db6ef5191541b2f0878386445f8
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: DoorFrame_000
+    100004: Floor
+    100006: House
+    100008: HouseInside
+    100010: Porch
+    100012: Porch_001
+    100014: PorchFence
+    100016: Roof_000
+    100018: Roof_001
+    100020: Window_000
+    100022: Window_001
+    100024: Window_002
+    100026: Window_003
+    100028: Window_004
+    100030: Window_005
+    100032: Window_006
+    400000: //RootNode
+    400002: DoorFrame_000
+    400004: Floor
+    400006: House
+    400008: HouseInside
+    400010: Porch
+    400012: Porch_001
+    400014: PorchFence
+    400016: Roof_000
+    400018: Roof_001
+    400020: Window_000
+    400022: Window_001
+    400024: Window_002
+    400026: Window_003
+    400028: Window_004
+    400030: Window_005
+    400032: Window_006
+    2100000: HouseMat_001
+    2100002: HouseMat__HouseColorMap
+    2100004: HouseOutsideMat
+    2100006: HouseMat
+    2100008: HouseMat_001__HouseColorMap_001
+    2100010: HouseMat_002__HouseColorMap_002
+    2300000: DoorFrame_000
+    2300002: Floor
+    2300004: House
+    2300006: HouseInside
+    2300008: Porch
+    2300010: Porch_001
+    2300012: PorchFence
+    2300014: Roof_000
+    2300016: Roof_001
+    2300018: Window_000
+    2300020: Window_001
+    2300022: Window_002
+    2300024: Window_003
+    2300026: Window_004
+    2300028: Window_005
+    2300030: Window_006
+    3300000: DoorFrame_000
+    3300002: Floor
+    3300004: House
+    3300006: HouseInside
+    3300008: Porch
+    3300010: Porch_001
+    3300012: PorchFence
+    3300014: Roof_000
+    3300016: Roof_001
+    3300018: Window_000
+    3300020: Window_001
+    3300022: Window_002
+    3300024: Window_003
+    3300026: Window_004
+    3300028: Window_005
+    3300030: Window_006
+    4300000: Floor
+    4300002: Window_002
+    4300004: Window_006
+    4300006: Window_000
+    4300008: Window_005
+    4300010: Window_003
+    4300012: House
+    4300014: Window_001
+    4300016: DoorFrame_000
+    4300018: Porch
+    4300020: PorchFence
+    4300022: HouseInside
+    4300024: Porch_001
+    4300026: Roof_001
+    4300028: Window_004
+    4300030: Roof_000
+    7400000: Default Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
